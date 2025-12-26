@@ -1,5 +1,13 @@
-My name is **Haithem Ghattas**. I’m a software engineer 
+# Hi there, I'm Haithem Ghattas 
 
+
+
+## 👨‍💻 About Me
+
+I'm a passionate Software Engineer who loves building elegant solutions to complex problems. Currently crafting innovative software at [Vectors](https://covectors.io/).
+
+
+### 🛠️ Technologies & Languages
 <picture>
   <img
     align="right"
@@ -7,13 +15,20 @@ My name is **Haithem Ghattas**. I’m a software engineer
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaithemGhattass&theme=tokyonight"
   />
 </picture>
+I work with a diverse tech stack, specializing in:
 
-### :space_invader: More About Me
+- **Languages**: [JavaScript](https://github.com/HaithemGhattass?tab=repositories&q=&type=&language=javascript&sort=) • [TypeScript](https://github.com/HaithemGhattass?tab=repositories&q=&type=&language=typescript&sort=) • [Swift](https://github.com/HaithemGhattass?tab=repositories&q=&type=&language=swift&sort=) • [Dart](https://github.com/HaithemGhattass?tab=repositories&q=&type=&language=dart&sort=)
 
-- :pencil2: [JavaScript](https://github.com/HaithemGhattass?tab=repositories&q=&type=&language=javascript&sort=) /
-  [TypeScript](https://github.com/HaithemGhattass?tab=repositories&q=&type=&language=typescript&sort=) /
-  [swift](https://github.com/HaithemGhattass?tab=repositories&q=&type=&language=swift&sort=) /
-  [dart](https://github.com/HaithemGhattass?tab=repositories&q=&type=&language=dart&sort=)
-- :handbag: Software Engineer at [Vectors](https://covectors.io/)
-- :thought_balloon: Contact me
-  [Discussions](https://www.linkedin.com/in/haithem-ghattas)!
+### 🌱 What I'm Up To
+
+- 💼 Building impactful software solutions at Vectors
+- 🚀 Working on launching my own startup
+- 📚 Continuously learning and growing as a developer
+
+### 📫 Let's Connect
+
+Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haithem-ghattas)
+
+
